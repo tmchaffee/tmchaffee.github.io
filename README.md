@@ -1,2 +1,2 @@
 # tmchaffee.github.io
-site
+Personal website hosted via Github Pages. Includes public-facing site and some behind-the-scenes projects.
